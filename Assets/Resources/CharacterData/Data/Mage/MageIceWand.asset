@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2494e34b7b6aa044da9aedf6d2258507, type: 3}
+  m_Name: MageIceWand
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 3154849117301663444, guid: e62c55d7df97d7045bf2f942ca6d1c17, type: 3}
+  MaxHealth: 2000
+  MaxEnergy: 1000
+  CritChance: 28.3
+  Power: 56
+  Name: MageIceWand
+  DmgType: 1
+  WpnType: 1
